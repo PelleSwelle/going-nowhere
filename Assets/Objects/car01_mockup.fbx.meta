@@ -1,0 +1,226 @@
+fileFormatVersion: 2
+guid: 46e459d11c784c042973435da1758540
+timeCreated: 1525205978
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: bak
+    100002: Camera_FP
+    100004: car
+    100006: //RootNode
+    100008: car_dimensions
+    100010: car_roof
+    100012: dashboard mockup_v001
+    100014: dashboard mockup_v001.001
+    100016: dashboard_top_modular
+    100018: frontWindow_frame
+    100020: frontWindow_frame.001
+    100022: frontWindow_glass
+    100024: mockup
+    100026: pedal
+    100028: pedal.001
+    100030: pedal.002
+    100032: steering wheel
+    100034: wheel_back.L
+    100036: wheel_back.R
+    100038: wheel_front.L
+    100040: wheel_front.R
+    100042: coffee cup
+    100044: coffee cup lid
+    100046: dashboard mockup_v002
+    100048: drawer
+    100050: gear_stick
+    100052: seat_driver
+    100054: seat_passenger
+    100056: steering wheel base
+    400000: bak
+    400002: Camera_FP
+    400004: car
+    400006: //RootNode
+    400008: car_dimensions
+    400010: car_roof
+    400012: dashboard mockup_v001
+    400014: dashboard mockup_v001.001
+    400016: dashboard_top_modular
+    400018: frontWindow_frame
+    400020: frontWindow_frame.001
+    400022: frontWindow_glass
+    400024: mockup
+    400026: pedal
+    400028: pedal.001
+    400030: pedal.002
+    400032: steering wheel
+    400034: wheel_back.L
+    400036: wheel_back.R
+    400038: wheel_front.L
+    400040: wheel_front.R
+    400042: coffee cup
+    400044: coffee cup lid
+    400046: dashboard mockup_v002
+    400048: drawer
+    400050: gear_stick
+    400052: seat_driver
+    400054: seat_passenger
+    400056: steering wheel base
+    2000000: Camera_FP
+    2100000: No Name
+    2100002: carpaint
+    2100004: carRoof
+    2100006: window
+    2100008: wheelRubber
+    2100010: white
+    2100012: drawer
+    2100014: chrome
+    2100016: dashboard
+    2300000: car
+    2300002: car_dimensions
+    2300004: car_roof
+    2300006: dashboard mockup_v001
+    2300008: dashboard mockup_v001.001
+    2300010: dashboard_top_modular
+    2300012: frontWindow_frame
+    2300014: frontWindow_frame.001
+    2300016: frontWindow_glass
+    2300018: pedal
+    2300020: pedal.001
+    2300022: pedal.002
+    2300024: steering wheel
+    2300026: wheel_back.L
+    2300028: wheel_back.R
+    2300030: wheel_front.L
+    2300032: wheel_front.R
+    2300034: coffee cup
+    2300036: coffee cup lid
+    2300038: dashboard mockup_v002
+    2300040: drawer
+    2300042: gear_stick
+    2300044: seat_driver
+    2300046: seat_passenger
+    2300048: steering wheel base
+    3300000: car
+    3300002: car_dimensions
+    3300004: car_roof
+    3300006: dashboard mockup_v001
+    3300008: dashboard mockup_v001.001
+    3300010: dashboard_top_modular
+    3300012: frontWindow_frame
+    3300014: frontWindow_frame.001
+    3300016: frontWindow_glass
+    3300018: pedal
+    3300020: pedal.001
+    3300022: pedal.002
+    3300024: steering wheel
+    3300026: wheel_back.L
+    3300028: wheel_back.R
+    3300030: wheel_front.L
+    3300032: wheel_front.R
+    3300034: coffee cup
+    3300036: coffee cup lid
+    3300038: dashboard mockup_v002
+    3300040: drawer
+    3300042: gear_stick
+    3300044: seat_driver
+    3300046: seat_passenger
+    3300048: steering wheel base
+    4300000: frontWindow_frame.001
+    4300002: car_dimensions
+    4300004: car
+    4300006: steering wheel
+    4300008: pedal
+    4300010: dashboard mockup_v001.001
+    4300012: dashboard mockup_v001
+    4300014: pedal.001
+    4300016: pedal.002
+    4300018: car_roof
+    4300020: dashboard_top_modular
+    4300022: frontWindow_glass
+    4300024: frontWindow_frame
+    4300026: wheel_back.L
+    4300028: seat_driver
+    4300030: drawer
+    4300032: coffee cup
+    4300034: coffee cup lid
+    4300036: steering wheel base
+    4300038: gear_stick
+    4300040: dashboard mockup_v002
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
